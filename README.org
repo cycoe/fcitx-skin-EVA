@@ -1,0 +1,6 @@
+** fcitx-skin-EVA
+fcitx-skin-EVA is a fcitx skin based on the *classsic skin*, with a stick of
+[[HTTPS://EN.WIKIPEDIA.ORG/WIKI/NEON_GENESIS_EVANGELION][EVANGELION-01]] overlaying.
+
+** Screenshot
+[[file:screenshot.png]]
